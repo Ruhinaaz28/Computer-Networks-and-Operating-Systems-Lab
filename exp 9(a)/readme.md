@@ -3,4 +3,4 @@
 
 ![sample output](fcfsoutput.png)
 
-![tested output](fcfstestedoutput.png)
+![tested output](fcfstestoutput.png)
